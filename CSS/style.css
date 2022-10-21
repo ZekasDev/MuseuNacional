@@ -123,6 +123,10 @@ article#historia {
     margin: 15px 0 0 37px;
 }
 
+article#historia p {
+  text-align: justify;
+}
+
 h3 {
     color: #227115;
     font-size: 1.0em;
