@@ -71,6 +71,7 @@ aside {
     float: right;
     background: #ebe7dd;
     padding-bottom: 30px;
+    margin-bottom: 20px;
 }
 
 section#visita {
@@ -134,6 +135,17 @@ h4 {
     padding-bottom: 3px;
     margin-bottom: 0;
 }
+
+/* Rodapé */
+
+footer {
+    clear: both;
+    padding: 20px 0 30px 0;
+    text-align: center;
+    background: url(../Imagens/fundo-rodape.png) no-repeat center top;
+    margin-top: 20px;
+}
+
 
 /* Formulários */
 
